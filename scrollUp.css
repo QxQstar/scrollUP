@@ -1,0 +1,25 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul{
+	width: 280px;
+	height: 30px;
+	margin: 100px auto;
+	overflow: hidden;
+	border: 2px solid #DE5852;
+}
+ul li{
+	height: 30px;
+	line-height: 30px;
+	list-style-type: none;
+	text-align: center;
+}
+li a{
+	text-decoration: none;
+	color: #DE5852;
+	font-size: 14px;
+}
+li a:hover{
+	color: blue;
+}
